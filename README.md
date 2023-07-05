@@ -63,10 +63,18 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 <br>
 
 
-
 ## Screenshots
+Notes daved to db.json
+![saved json](https://github.com/soniasebastian/note-taker-app/assets/130253087/2072892a-ca85-442e-9be0-117509403f47)
 
+Saving a new note
+![saving new note](https://github.com/soniasebastian/note-taker-app/assets/130253087/b21c340e-3d74-4509-b8dd-bab2c481a871)
 
+Saved Notes
+![saved notes](https://github.com/soniasebastian/note-taker-app/assets/130253087/5d624a82-bb0a-44a0-92de-135696b527ac)
+
+Clicked note seen to the right
+![clicked note seen to the right](https://github.com/soniasebastian/note-taker-app/assets/130253087/faa5b4bf-db7e-416c-9530-3fabccb29663)
 
 
 ## Contribution:
@@ -78,7 +86,6 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 ## Questions :
   View my [GitHub](https://github.com/soniasebastian) profile
 
-  
   Email me at soniasebastian011@gmail.com for any queries.
 
   
