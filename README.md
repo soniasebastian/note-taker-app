@@ -77,6 +77,8 @@ Saved Notes
 Clicked note seen to the right
 ![clicked note seen to the right](https://github.com/soniasebastian/note-taker-app/assets/130253087/faa5b4bf-db7e-416c-9530-3fabccb29663)
 
+## Links
+The URL of the functional deployed application (https://soniasebastian.github.io/note-taker-app/)
 
 ## Contribution:
    Contributions are most welcome such as bug fixes, feature enhancements, documentation improvements and code optimization.
