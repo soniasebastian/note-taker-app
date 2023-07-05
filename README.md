@@ -37,6 +37,7 @@ This application is licensed under MIT License
 
 ## Usage
 * Run "node server.js" from the open integrated terminal.
+* The app is deployed to heroku site and accessed through the link (https://serene-congaree-21521-cfd6cb6850e3.herokuapp.com/)
 
 ## User Story
 ```
